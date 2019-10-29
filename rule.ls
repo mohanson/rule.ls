@@ -1,0 +1,31 @@
+F services.googleapis.cn services.googleapis.com
+
+R tdesktop.com *.tdesktop.com
+R 149.154.171.5
+R 149.154.167.51
+R 91.108.56.180
+
+R amazonaws.com *.amazonaws.com
+
+R e-hentai.org *.e-hentai.org
+
+R github.com *.github.com
+R github.io *.github.io
+R githubapp.com *.githubapp.com
+R githubassets.com *.githubassets.com
+R githubusercontent.com *.githubusercontent.com
+
+R google.com *.google.com
+R googleapis.com *.googleapis.com
+R google-analytics.com *.google-analytics.com
+R ggpht.com *.ggpht.com
+R gstatic.com *.gstatic.com
+R googleusercontent.com *.googleusercontent.com
+R googlevideo.com *.googlevideo.com
+
+R rust-lang.org *.rust-lang.org
+
+R stackoverflow.com *.stackoverflow.com
+
+R youtube.com *.youtube.com
+R ytimg.com *.ytimg.com
