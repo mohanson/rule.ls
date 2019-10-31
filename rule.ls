@@ -27,5 +27,7 @@ R rust-lang.org *.rust-lang.org
 
 R stackoverflow.com *.stackoverflow.com
 
+R ts-ast-viewer.com *.ts-ast-viewer.com
+
 R youtube.com *.youtube.com
 R ytimg.com *.ytimg.com
