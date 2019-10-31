@@ -17,6 +17,7 @@ R githubusercontent.com *.githubusercontent.com
 
 R google.com *.google.com
 R googleapis.com *.googleapis.com
+R googletagmanager.com *.googletagmanager.com
 R google-analytics.com *.google-analytics.com
 R ggpht.com *.ggpht.com
 R gstatic.com *.gstatic.com
