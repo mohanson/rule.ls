@@ -15,6 +15,8 @@ R githubapp.com *.githubapp.com
 R githubassets.com *.githubassets.com
 R githubusercontent.com *.githubusercontent.com
 
+R golang.org *.golang.org
+
 R google.com *.google.com
 R googleapis.com *.googleapis.com
 R googletagmanager.com *.googletagmanager.com
