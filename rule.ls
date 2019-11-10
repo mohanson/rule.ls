@@ -32,5 +32,7 @@ R stackoverflow.com *.stackoverflow.com
 
 R ts-ast-viewer.com *.ts-ast-viewer.com
 
+R wikipedia.org *.wikipedia.org
+
 R youtube.com *.youtube.com
 R ytimg.com *.ytimg.com
