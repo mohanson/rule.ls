@@ -7,6 +7,8 @@ R 91.108.56.180
 
 R amazonaws.com *.amazonaws.com
 
+R cnn.com *.cnn.com
+
 R e-hentai.org *.e-hentai.org
 
 R github.com *.github.com
